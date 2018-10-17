@@ -1,0 +1,4 @@
+customers = [[Katherine McClusky, katherinemc@gmail.com, 515-554-3499],
+ [Gary Bennett, garyb@yahoo.com, 402-399-0956],
+ [Joseph Patil, ipatil@outlook.com, 402-739-1110]]
+
